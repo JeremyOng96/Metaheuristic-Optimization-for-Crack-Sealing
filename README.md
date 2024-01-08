@@ -1,6 +1,9 @@
 # Metaheuristic-Optimization-for-Crack-Sealing
 
-This repository contains metaheuristic optimization methods for crack sealing.
+
+
+This repository contains algorithms related to path planning algorithms such as 2-opt and 3-opt for crack sealing. The planner accepts a binary image and then performs path planning using the binary image. 
+
 Original image       |  Binary image    |  Output path
 :-------------------------:|:-------------------------:|:-------------------------:
 ![104](https://github.com/JeremyOng96/Metaheuristic-Optimization-for-Crack-Sealing/assets/17587452/d4ba9bb6-d3db-48c0-9fad-a1d7c9e1c09f) | ![104](https://github.com/JeremyOng96/Metaheuristic-Optimization-for-Crack-Sealing/assets/17587452/ced5da43-8033-43ef-be5b-a1dc3fd89fce) | ![output](https://github.com/JeremyOng96/Metaheuristic-Optimization-for-Crack-Sealing/assets/17587452/c2bd5a64-3afd-4471-bbbb-5b9959ef61b9)
