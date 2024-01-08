@@ -2,7 +2,7 @@
 
 
 
-This repository contains algorithms related to path planning algorithms such as 2-opt, 3-opt and other metaheuristic optimizers (soon to be updated) for crack sealing. The planner accepts a binary image and then performs path planning using the binary image. 
+This repository converts binary images into fully connected graphs and uses path planning algorithms such as 2-opt, 3-opt and other metaheuristic optimizers (soon to be updated) for crack sealing. The planner accepts a binary image and then performs path planning using the binary image. 
 
 Original image       |  Binary image    |  Output path
 :-------------------------:|:-------------------------:|:-------------------------:
