@@ -1,7 +1,7 @@
 # Metaheuristic-Optimization-for-Crack-Sealing
 
 
-The official implementation of Metaheuristic Crack Sealing Path Planning Based on Discrete Grey Wolf Optimizer (http://dx.doi.org/10.2139/ssrn.4684040).This repository converts binary images into fully connected graphs and uses path planning algorithms such as 2-opt, 3-opt and other metaheuristic optimizers for crack sealing. The planner accepts a binary image and then performs path planning using the binary image. 
+The official implementation of Metaheuristic Crack Sealing Path Planning Based on Discrete Grey Wolf Optimizer. This repository converts binary images into fully connected graphs and uses path planning algorithms such as 2-opt, 3-opt and other metaheuristic optimizers for crack sealing. The planner accepts a binary image and then performs path planning using the binary image. 
 
 Original image       |  Binary image    |  Output path
 :-------------------------:|:-------------------------:|:-------------------------:
